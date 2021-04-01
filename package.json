@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kafka-node": "^5.0.0",
+    "mongoose": "^5.11.13",
+    "systeminformation": "^5.6.10",
+    "validator": "^13.5.2"
+  }
+}
